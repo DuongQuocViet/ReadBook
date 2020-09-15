@@ -19,7 +19,7 @@ component.homePage = `
 </div>
 </div>
 <div id="content-wrapper">
-<button id = "Add_New" class="add">Add New</button>
+
 <div id="content">
     <p><a href="#" class="drop-shadow"><img src="images/the_mephisto_club.jpg" width="100" height="150" alt="The Mephisto Club by Tess Gerritsen" class="captionated" /></a></p>
     <p><a href="#" class="drop-shadow"><img src="images/dark_celebration.jpg" width="100" height="150" alt="Dark Celebration by Christine Freehan" class="captionated" /></a></p>
